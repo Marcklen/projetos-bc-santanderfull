@@ -6,3 +6,7 @@
 # Projetos do Curso de Angular Básico
 
 1) - Criação de um E-Commerce com Angular
+
+# Certificado de Conclusão do Curso Santader DIO - FullStack Developer
+
+![certificado](https://user-images.githubusercontent.com/97760233/184446206-f79e4498-17a2-4818-858c-c01d9092930d.png)
